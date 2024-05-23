@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479809b9-0f86-429f-9235-24f354b1c4dd" name="更改" comment="添加构造器&#10;&#10;(cherry picked from commit 4c3241833ab6bb9078895a75d9a19ebda77882ca)">
-      <changelist_data name="Potemkin" email="163.com" date="1716447264000" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zlt/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zlt/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="479809b9-0f86-429f-9235-24f354b1c4dd" name="更改" comment=" System.out.println( &quot;Hello World!&quot; );" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +42,11 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="githubTest &lt;166200860+asdfwe23231@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -158,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713843610162</updated>
       <workItem from="1713843618347" duration="580000" />
-      <workItem from="1716445300830" duration="5800000" />
+      <workItem from="1716445300830" duration="6306000" />
     </task>
     <task id="LOCAL-00001" summary="项目原型">
       <option name="closed" value="true" />
@@ -176,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716447265409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" System.out.println( &quot;Hello World!&quot; );">
+      <option name="closed" value="true" />
+      <created>1716456210141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716456210141</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" System.out.println( &quot;Hello World!&quot; );">
+      <option name="closed" value="true" />
+      <created>1716456505723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716456505723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +245,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -250,8 +260,10 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="项目原型" />
-    <MESSAGE value="添加构造器" />
     <MESSAGE value="添加构造器&#10;&#10;(cherry picked from commit 4c3241833ab6bb9078895a75d9a19ebda77882ca)" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加构造器&#10;&#10;(cherry picked from commit 4c3241833ab6bb9078895a75d9a19ebda77882ca)" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="添加构造器" />
+    <MESSAGE value=" System.out.println( &quot;Hello World!&quot; );" />
+    <option name="LAST_COMMIT_MESSAGE" value=" System.out.println( &quot;Hello World!&quot; );" />
   </component>
 </project>
